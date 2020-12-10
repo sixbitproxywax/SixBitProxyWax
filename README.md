@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning:
 * Programming Languages
-* Haskell
+* Scala
 * Datalog
 
 📫 How to reach me: Please don't.
